@@ -1,0 +1,5 @@
+1. Hacking methodology 
+Foot printing
+1. Go to chrome and type “hunter.io” then click enter.
+2. Type the website you want to scan and click on find email address
+ 

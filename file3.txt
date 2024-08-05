@@ -1,0 +1,4 @@
+Steps to setup password for laptop
+Step 1: Create another admin user in windows 10 by going into
+Control panel -> User Accounts ->
+User Accounts -> Manage Accounts ->

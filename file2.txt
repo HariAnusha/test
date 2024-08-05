@@ -1,0 +1,6 @@
+Scanning
+Step 1: install Nmap on your windows or linux system 
+Step 2: To scan a single target is “nmap 0.0.0.0” (IP address of target)
+This shows open ports, and services running on the target 
+Step 3: To scan all the IP network ID 
+“nmap 192.168.0.1/24”
